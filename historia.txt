@@ -6,4 +6,5 @@ Soy colombiano
 
 Soy hombre
 
-Estoy aprendiendo a usar git
+hablando de mi vida estudiantil
+
