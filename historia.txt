@@ -5,3 +5,5 @@ Tengo 22 años
 Soy colombiano
 
 Soy hombre
+
+Estoy aprendiendo a usar git
