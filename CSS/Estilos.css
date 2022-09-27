@@ -7,19 +7,23 @@ body {
   margin: 0;
   padding: 0;
 }
+
 #cabecera {
   background: #33a;
-  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.7);
   color: #fff;
   font-weight: 700;
   margin: 0;
   padding: 0.5em;
+  position: relative;
 }
+
 #cabecera #tagline {
   padding: 0 0 0 1em;
   font-weight: 400;
   font-size: 0.8em;
 }
+
 #container {
   width: 70%;
   padding: 0;
@@ -27,10 +31,12 @@ body {
   border: 1px solid #ddd;
   margin: 0 auto;
 }
+
 #container h1 {
   font-size: 20px;
   text-align: center;
 }
+
 #post {
   padding: 1em;
   background: white;
@@ -39,6 +45,7 @@ body {
 #footer
 {
   background: #777;
+  box-shadow: 0 -2px 20px 0 rgba(0, 0, 0, 0.7);
   color: white;
   text-align: center;
   padding: 0.1em;
